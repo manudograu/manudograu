@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @manudograu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-manudograu/manudograu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 oi, eu sou @manudograu
+- 👀 atleticana
+- 🌱 estudo no milton
+- 💞️ eu estou estudando programaçao
+- 0:57
+- juiza
